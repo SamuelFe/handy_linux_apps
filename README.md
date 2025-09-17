@@ -21,3 +21,8 @@
 **jump** - Navigate fast in terminal
 
 **nb** - Private notes
+
+**dysk** - Visualy useful `df` alternative
+
+## Patches
+**advcpmv** - `mv` and `cp` with progress bars [[GitHub](https://github.com/jarun/advcpmv)]
